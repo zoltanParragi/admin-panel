@@ -15,6 +15,9 @@ Felhasználók kezelése Laravel és React segítségével.
 
 ## A back-end jellemzői
 
+- Laravel
+- Token alapú azonosítás
+- Axios használata
 - Regisztráció végpont
 - Bejelenkezés végpont
 - Create, Read, Update, and Delete API végpontok, adatbázis kezelés
