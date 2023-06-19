@@ -17,7 +17,7 @@ export default function NavBar() {
   return (
     <nav>
       
-      <div><Link to="/">Főoldal</Link></div>
+      <div><Link to="/">Kezdőoldal</Link></div>
       <ul>
         {!token && <li><Link to="/login">Belépés</Link></li>}
         {!token && <li><Link to="/register">Regisztráció</Link></li>}
