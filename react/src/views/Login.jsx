@@ -28,7 +28,6 @@ export default function Login() {
             .catch((err) => {
                 const response = err.response;
                 if (response && response.status === 422) {
-                    //console.log(response.data.errors)
                     if(response.data.errors) {
                         setErrors(response.data.errors)
                     } else {
