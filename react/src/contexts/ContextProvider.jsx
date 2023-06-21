@@ -35,9 +35,9 @@ export const ContextProvider = ({children}) => {
         <StateContext.Provider value={{
             user,
             token,
+            notification,
             setUser,
             setToken,
-            notification,
             setNotification
         }}>
             {children}

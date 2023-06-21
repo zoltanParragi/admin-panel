@@ -5,7 +5,7 @@ import NavBar from './NavBar'
 import axiosClient from '../axios-client'
 
 export default function DefaultLayout() {
-    const { user, token, notification, setUser, setToken } = useStateContext()
+    const { user, token, notification, setUser } = useStateContext()
 
     if (!token) {
         return <Navigate to='/login' />

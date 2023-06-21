@@ -3,8 +3,7 @@ import { useStateContext } from '../contexts/ContextProvider'
 import axiosClient from '../axios-client'
 
 export default function Dashboard() {
-  const { user, setUser } = useStateContext()
-  const { setNotification } = useStateContext()
+  const { user, setUser, setNotification } = useStateContext()
   const [errors, setErrors] = useState(null);
 
   const [userProfile, setUserProfile] = useState({
