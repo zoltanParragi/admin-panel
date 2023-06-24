@@ -20,3 +20,7 @@ Felhasználók kezelése Laravel és React segítségével.
 - Regisztráció végpont
 - Bejelenkezés végpont
 - Create, Read, Update, and Delete API végpontok, adatbázis kezelés
+
+## Kipróbálás
+
+A test@test.test email címmel és a test@test jelszóval lehet belépni az oldalra.
