@@ -23,4 +23,4 @@ Felhasználók kezelése Laravel és React segítségével.
 
 ## Kipróbálás
 
-Regisztráció majd beképés után az oldal kipróbálható.
+Regisztráció majd belépés után az oldal kipróbálható.
