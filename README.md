@@ -23,4 +23,4 @@ Felhasználók kezelése Laravel és React segítségével.
 
 ## Kipróbálás
 
-A test@test.test email címmel és a test@test jelszóval lehet belépni az oldalra.
+Regisztráció majd beképés után az oldal kipróbálható.
